@@ -118,7 +118,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener
 			{
 				playerX = 10;
 			}
-			else
+			else 
 			{
 				moveLeft();
 			}
